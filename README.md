@@ -1,4 +1,4 @@
-How to Solve Big Data Problem Practice Paper
+How to Solve Big Data Problem
 
 1. Explain the main sources of Data flood.
 This flood of data is coming from many sources.
